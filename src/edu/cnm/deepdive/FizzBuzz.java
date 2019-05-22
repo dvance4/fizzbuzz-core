@@ -17,7 +17,7 @@ public class FizzBuzz {
   public static final String BUZZ = "Buzz";
 
   private FizzBuzz() {}
-  
+
   /**
    * Computes and returns "Fizz", "Buzz", or a {@link String} representation of <code>value</code>,
    * depending on whether <code>value</code> is divisible by 3 or 5.
